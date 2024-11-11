@@ -1,0 +1,548 @@
+.color{
+    color:#ff0000
+}
+.login_photo{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    
+}
+.container{
+    height: 100%;
+    width: 100%;
+}
+.conta{
+    height: 100%;
+    width: 100%;
+    margin-top: 300px;
+    background-color: #4F3B1D;
+    align-items: center;
+justify-content: center;
+
+}
+.bbby{
+    background: #DFDBD3;
+
+}
+.container_12{
+    height: 100%;
+    width: 100%;
+
+background-color:#DFDBD3 ;
+}
+.container_1{
+    height: 100%;
+    width: 100%;
+align-items: center;
+background-color:#DFDBD3 ;
+}
+.container_w1{
+    height: 100%;
+    width: 100%;
+    background-color:#DFDBD3 ;
+
+}
+.container_11{
+    height: 100%;
+    width: 100%;
+align-items: center;
+background-color:#DFDBD3 ;
+}
+.but_auth{
+
+
+box-sizing: border-box;
+
+
+
+background: #4F3B1D;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+
+width: 56%;
+height: 54px;
+
+mix-blend-mode: normal;
+justify-content: center;
+align-items: center;
+margin-top: 10%;
+}
+.but_auth_1{
+
+
+    box-sizing: border-box;
+    
+    
+    
+    background: #4F3B1D;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    
+    width: 56%;
+    height: 54px;
+    
+    mix-blend-mode: normal;
+    justify-content: center;
+    align-items: center;
+    }
+    .but_auth_2{
+
+
+        box-sizing: border-box;
+        
+        
+        position: absolute;
+        bottom: 200px;
+        background: #4F3B1D;
+        border: 1px solid #000000;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 20px;
+        
+        width: 56%;
+        height: 54px;
+        
+        mix-blend-mode: normal;
+        justify-content: center;
+        align-items: center;
+        }
+
+        .but_auth_211121{
+
+
+            
+            
+            position: absolute;
+            bottom: 140px;
+  
+            
+            width: 25%;
+    
+            
+ 
+            }
+.text_but_auth{
+
+/* font-family: 'Crimson Text'; */
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+color: #D9D9D9;
+
+
+}
+.pos_ap_bot_auth{
+
+    display: flex;
+    margin-top: 170%;
+    width: 100%;
+
+    align-items: center;
+}
+
+
+.text_auth{
+/* font-family: 'SF Pro Display'; */
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+
+.pos_cont_top_auth{
+    position: absolute;
+    top:16%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.img_svg{
+    width: 30px;
+    height: 30px;
+}
+.input_auth{
+    width: 79%;
+    display: flex;
+    /* Group 3 */
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+
+margin-bottom: 20px;
+background: #D9D9D9;
+border: 1px solid rgba(0, 0, 0, 0.8);
+border-radius: 20px;
+flex-direction: row;
+height: 55px;
+align-items: center;
+padding-right: 20px;
+padding-left: 20px;
+}
+.input_auth_{
+    width: auto;
+    background-color: transparent;
+    font-size: 14px;
+}
+.text_abs_label{
+    display: flex;
+    width: 79%;
+    justify-content: start;
+    margin-bottom: 50px;
+}
+.text_abs{
+/* font-family: 'Crimson Text'; */
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 45px;
+
+
+color: #4F3B1D;
+
+text-shadow: 3px 0px 3px rgba(0, 0, 0, 0.25);
+
+}
+
+.but_perekl{
+    /* Rectangle 3 */
+
+box-sizing: border-box;
+
+width: 56%;
+height: 54px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #A79881;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+margin-bottom: 10%;
+}
+.but_perekl_12{
+    /* Rectangle 3 */
+
+box-sizing: border-box;
+
+width: 56%;
+height: 54px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #A79881;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+margin-bottom: 5%;
+}
+
+.but_perekl_1{
+    /* Rectangle 3 */
+
+box-sizing: border-box;
+
+width: 56%;
+height: 54px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #A79881;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+margin-bottom: 20px;
+}
+
+.but_perekl_text{
+    /* Войти */
+
+
+
+/* font-family: 'Crimson Text'; */
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+color: #F5F5F5;
+
+
+}
+.but_perekl_text{
+    /* Войти */
+
+
+
+/* font-family: 'Crimson Text'; */
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+color: #F5F5F5;
+
+
+}
+.but_perekl_text12{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: rgba(79, 59, 29, 0.83);
+    margin-bottom: 25px;
+    margin-top: 20px;
+    
+    }
+    .tex_ac{
+        text-align: center;
+        font-size: 20px;
+        color:rgba(79, 59, 29, 0.83);
+        margin-bottom: -20px;
+        margin-top:20px;
+    }
+.text_abs_1{
+    /* Новая учётная запись */
+
+
+width: 70%;
+
+
+/* font-family: 'Crimson Text'; */
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 32px;
+
+color: #4F3B1D;
+
+text-shadow: 3px 0px 3px rgba(0, 0, 0, 0.25);
+
+}
+
+/* Rectangle 5 */
+.item_schetchik_label{
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+}
+.w_20_img{
+    width: 20%;
+    height: auto;
+    
+}
+.w_20{
+    border-left-color: #FFF;
+    border-left-width: 2px;
+    padding-left: 15px;
+width: 22%;
+
+}
+.w_20_{
+    border-left-color: #FFF;
+    border-left-width: 2px;
+    padding-left: 20px;
+width: 20%;
+height: 30px;
+justify-content: center;
+}
+.w_60{
+    width: 55%;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 22px;
+}
+.w_60_{
+    width: 60%;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 20px;
+}
+.w_20_text{
+    color: #FFF;
+    font-weight: bold;
+    font-size: 13px;
+}
+.item_schetchik{
+    margin-left: 20px;
+    margin-right: 20px;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 70px ;height: auto;
+    display: flex;
+width: 90%;
+    flex-direction: row;
+    padding:15px;
+    background: #A79881;
+border: 1px solid #4F3B1D;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+border-radius: 20px;
+margin-top: 20px;
+}
+
+.plus_d{
+    position: absolute;
+    bottom: 40px;
+    justify-content: center;
+}
+.camera_label{
+    /* Ellipse 1 */
+height: 380px;
+width: 95%;
+
+margin-top: 20px;
+
+
+margin-bottom: 35px;
+}
+.but_perekl_none{
+    display: none;
+}
+.camera_label_text{
+/* Направьте камеру на счётчик при хорошем освещении и сделайте снимок так, чтобы все цифры были четко видны. */
+
+/* font-family: 'Crimson Text'; */
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: rgba(79, 59, 29, 0.83);
+margin-bottom: 40px;
+padding-left: 20px;
+padding-right: 20px;
+}
+.label_name_schetchiki{
+    height: 100%;
+    width: 100%;
+    margin-top: 35px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background: #A79881;
+
+    border: 1px solid #4F3B1D;
+align-items: center;
+  
+}
+
+.label_name_schetchiki_title{
+    /* Введите название счётчика */
+
+
+/* 
+font-family: 'Crimson Text'; */
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 39px;
+text-align: center;
+color: #FFFFFF;
+margin-top: 35px;
+padding-left: 30px;
+padding-right: 30px
+}
+
+.label_name_schetchiki_textinput{
+    border:2px solid #FFF;
+    color:#FFF;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height:62px ;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 80%;
+    background: transparent;
+    margin-right: 30px
+}
+
+.label_name_schetchiki_img{
+    width: 300px;
+    height: 300px;
+}
+
+
+.label_text_{
+
+    justify-content: center;
+    align-items: center;
+height: 57px;
+width: 85%;
+background: rgba(167, 152, 129, 0.16);
+border: 1px solid #4F3B1D;
+border-radius: 20px;
+margin-bottom: 10px;
+}
+.label_text_text{
+    /* 87356490271 */
+
+
+/* font-family: 'SF Pro Display'; */
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+}
+.Glav_str_next_info_info_label{
+justify-content: start;
+width: 85%;
+}
+
+/* Лицевой счёт */
+.Glav_str_next_info_info{
+/* font-family: 'SF Pro Display'; */
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+
+color: #4F3B1D;
+margin-bottom: 5px;
+text-shadow: 4px 0px 4px rgba(0, 0, 0, 0.15);
+}
+
+.nav_bar{
+    height:80px;
+    background-color: #4F3B1D;
+    width: 100%;
+    display: flex;
+justify-content: space-between;
+align-items: flex-end;
+padding-left: 10px;
+padding-right: 10px;
+flex-direction: row;
+padding-bottom: 3px;
+}
+.nav_bar_text_label{
+    display: flex;
+    
+}
+.nav_bar_text{
+    font-size: 20px;
+    color: #FFF;
+    font-weight: bold;
+    padding-bottom: 7px;
+}
+.width_15{
+    width: 15%;
+}
